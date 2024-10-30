@@ -4,7 +4,7 @@ Web application that allows you to personalize your order using 3D graphics. Thi
 
 ---
 
-## Author: Klaudia Jędryszczak
+### Author: Klaudia Jędryszczak
 
 ## Requirements
 
@@ -43,7 +43,8 @@ Make sure you have installed:
 
    Runs the app in development mode. Open http://localhost:3000 to view it in your browser.
 
-Note: The app will not run correctly without the .env file
+##### Note: The app will not run correctly without the .env file
+
 ---
 
 ## Interface
