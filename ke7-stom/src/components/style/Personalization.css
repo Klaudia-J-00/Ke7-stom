@@ -1,0 +1,22 @@
+.personalization-choose {
+  border: 2px solid black;
+  border-radius: 33px;
+  margin: 2px;
+}
+
+.icon-img {
+  border-radius: 33px;
+}
+
+.perso-h1 {
+  font-family: "Italiana", serif;
+  padding-top: 18vh;
+  font-size: 45px;
+  text-align: center;
+}
+
+.personalization-p {
+  color: #e88ed3;
+  font-weight: 800;
+  font-size: 1.7em;
+}
